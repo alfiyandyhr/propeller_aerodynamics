@@ -26,4 +26,4 @@ This repository contains my study notes, code, and simulation tools from the Ude
 - **Visualization** of thrust, torque, power, efficiency, and dimensionless coefficients.
 - **Reusable code** for academic or personal study.
 
-![BEMT Results](https://github.com/alfiyandyhr/propeller_aerodynamics/raw/main/BEMT_results.png)
+![BEMT Results](https://github.com/alfiyandyhr/propeller_aerodynamics/raw/main/BEMT_results.pdf)
