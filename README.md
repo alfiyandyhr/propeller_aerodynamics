@@ -22,6 +22,6 @@ This repository contains my study notes, code, and simulation tools from the Ude
 ## 🚀 Features
 
 - **Simulation of propeller performance** in different flight regimes (takeoff, climb, cruise).
-- **Comparison of classical methods** (MT, BEMT) with advanced models (MCEVS) that include tip/root loss corrections.
+- **Comparison of methods in the course** (MT, BEMT) with my models (MCEVS) that include tip/root loss corrections.
 - **Visualization** of thrust, torque, power, efficiency, and dimensionless coefficients.
 - **Reusable code** for academic or personal study.
