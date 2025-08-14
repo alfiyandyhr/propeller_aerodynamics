@@ -2,7 +2,12 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-This repository contains my study notes, code, and simulation tools from the Udemy course **“Design and Simulate the Aerodynamics of Propellers”**. The project covers aerodynamic analysis methods, including:
+This repository contains my study notes and Python implementations of the MATLAB code from the Udemy course **“Design and Simulate the Aerodynamics of Propellers in MATLAB”**.
+[![Udemy Certificate](https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg)](https://www.udemy.com/certificate/UC-4dfa6f8a-e50c-4236-892a-2cda2a33b01a/)
+
+[View my Udemy certificate](https://www.udemy.com/certificate/UC-4dfa6f8a-e50c-4236-892a-2cda2a33b01a/)
+
+The project covers aerodynamic analysis methods, including:
 
 - **Momentum Theory (MT)**
 - **Blade Element Momentum Theory (BEMT)**
