@@ -12,8 +12,8 @@ This repository contains my study notes, code, and simulation tools from the Ude
 
 ## 📂 Repository Structure
 
-- `BEMT.py` &mdash; Python implementation of Blade Element Momentum Theory for propeller performance prediction, with and without MCEVS.
-- `MT.py` &mdash; Python implementation of classic Momentum Theory and MCEVS-based calculations for hover climb/descent power.
+- `BEMT.py` &mdash; Python implementation of Blade Element Momentum Theory for propeller performance prediction.
+- `MT.py` &mdash; Python implementation of classic Momentum Theory calculations for hover climb/descent power.
 - `theory.pdf` &mdash; Course notes and theoretical background on propeller aerodynamics, including derivations and formulae.
 - `aerodata.xlsx` &mdash; Contains propeller geometry (section radius, pitch, chord, etc.) and airfoil performance data (CL, CD vs. alpha) for use in simulations and interpolation.
 
